@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react/static/css/main.7a098f7c.css",
-    "main.js": "/react/static/js/main.65ebe2c2.js",
+    "main.js": "/react/static/js/main.9df6923c.js",
     "static/js/453.0daa7491.chunk.js": "/react/static/js/453.0daa7491.chunk.js",
     "static/media/aliens3.jpg": "/react/static/media/aliens3.89e07851daaaab6c9af5.jpg",
     "static/media/planetsfire2.jpg": "/react/static/media/planetsfire2.d92cc8ad2490bea2fc93.jpg",
@@ -14,11 +14,11 @@
     "static/media/marsonfire.jpg": "/react/static/media/marsonfire.69c79690e5514a09a21a.jpg",
     "index.html": "/react/index.html",
     "main.7a098f7c.css.map": "/react/static/css/main.7a098f7c.css.map",
-    "main.65ebe2c2.js.map": "/react/static/js/main.65ebe2c2.js.map",
+    "main.9df6923c.js.map": "/react/static/js/main.9df6923c.js.map",
     "453.0daa7491.chunk.js.map": "/react/static/js/453.0daa7491.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a098f7c.css",
-    "static/js/main.65ebe2c2.js"
+    "static/js/main.9df6923c.js"
   ]
 }
