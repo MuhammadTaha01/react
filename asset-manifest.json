@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.7a098f7c.css",
+    "main.js": "/react/static/js/main.65ebe2c2.js",
+    "static/js/453.0daa7491.chunk.js": "/react/static/js/453.0daa7491.chunk.js",
+    "static/media/aliens3.jpg": "/react/static/media/aliens3.89e07851daaaab6c9af5.jpg",
+    "static/media/planetsfire2.jpg": "/react/static/media/planetsfire2.d92cc8ad2490bea2fc93.jpg",
+    "static/media/planetsDestroyed.jpg": "/react/static/media/planetsDestroyed.b36b56226e68d6de9c1c.jpg",
+    "static/media/humanswithdogs.jpg": "/react/static/media/humanswithdogs.0cf75aebe28eeb393b6b.jpg",
+    "static/media/aliens2.jpg": "/react/static/media/aliens2.33a5a5570aa5d77b76b6.jpg",
+    "static/media/aliens1.jpg": "/react/static/media/aliens1.c052b8282ce15ffab043.jpg",
+    "static/media/planetsfire3.jpg": "/react/static/media/planetsfire3.32fe725205d0ce44f414.jpg",
+    "static/media/planetsfire1.jpg": "/react/static/media/planetsfire1.1f156bc4508a46d741fc.jpg",
+    "static/media/marsonfire.jpg": "/react/static/media/marsonfire.69c79690e5514a09a21a.jpg",
+    "index.html": "/react/index.html",
+    "main.7a098f7c.css.map": "/react/static/css/main.7a098f7c.css.map",
+    "main.65ebe2c2.js.map": "/react/static/js/main.65ebe2c2.js.map",
+    "453.0daa7491.chunk.js.map": "/react/static/js/453.0daa7491.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a098f7c.css",
+    "static/js/main.65ebe2c2.js"
+  ]
+}
