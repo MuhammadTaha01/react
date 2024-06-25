@@ -1,0 +1,38 @@
+.footerContainer {
+    position: relative;  /* Allows footer to stay within document flow */
+    width: 100%;         /* Full width */
+    background-color: black;
+    color: white;
+    text-align: center;  /* Center align text */
+    padding: 10px 0;  
+    margin-top: 5%;
+    transition: .3s;   /* Optional: Padding for content inside footer */
+  }
+  .footerContainer:hover
+  {
+    background-color: rgb(53, 53, 53);
+    color: white;
+  }
+  .footerContainer a
+  {
+    color: rgb(8, 159, 0);
+    text-decoration: none;
+    transition: .3s;
+  }
+  
+  
+  .footerContainer a:hover
+  {
+    text-decoration: underline;
+  }
+
+  html, body {
+    height: 100vh;  /* Ensures content area takes up full viewport height */
+    display: flex;      /* Enables vertical alignment with flexbox */
+    flex-direction: column; /* Stacks content and footer vertically */
+  }
+  
+  .mainContent {  /* Add this class to your main content area */
+    flex: 1;            /* Makes content area grow to fill remaining space */
+  }
+  
